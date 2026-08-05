@@ -1,0 +1,7 @@
+APK0
+APK1
+*.apk
+analysis/
+analysis_*/
+jadx*/
+apktool*/
