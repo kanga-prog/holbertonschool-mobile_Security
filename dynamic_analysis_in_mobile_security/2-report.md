@@ -1,6 +1,3 @@
-cd ~/holbertonschool-mobile_Security/dynamic_analysis_in_mobile_security
-
-cat > 2-report.md <<'EOF'
 # Task 2 — Android Cryptography Challenge
 
 ## Objective
@@ -209,4 +206,3 @@ XOR with the decimal representation of Fibonacci(150).
 
 JADX exposed the ciphertext, key derivation and XOR implementation.
 Reproducing the algorithm with Python recovered the hidden flag.
-EOF
