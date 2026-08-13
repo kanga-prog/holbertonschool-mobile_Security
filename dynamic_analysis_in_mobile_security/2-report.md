@@ -198,7 +198,7 @@ Holberton{fibonacci_slow_computation_optimization}
 The flag was saved in:
 
 2-flag.txt
-Conclusion
+## Conclusion
 
 The encrypted data was not received from a remote server. It was
 embedded in the APK as Base64 and decrypted locally using repeating-key
